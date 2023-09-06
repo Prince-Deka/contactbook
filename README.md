@@ -31,9 +31,9 @@ User Authentication: The user provides their credentials (e.g., username and pas
 Token Generation: Upon successful authentication, the server generates a JWT containing the necessary user information and signs it with a secret key.
 
 
-## **Bcrypt.js:** 
+## **Crypto.js:** 
 
-bcrypt.js is a JavaScript library used for hashing passwords. It provides a secure and efficient way to store user passwords by applying a one-way hashing algorithm with salt. The bcrypt.js library is based on the bcrypt algorithm, which is known for its resistance against brute-force attacks.
+Crypto.js is a JavaScript library used for hashing passwords. It provides a secure and efficient way to store user passwords by applying a one-way hashing algorithm with salt. The bcrypt.js library is based on the bcrypt algorithm, which is known for its resistance against brute-force attacks.
 
 ## **Sass:** 
 
